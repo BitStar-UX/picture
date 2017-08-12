@@ -1,0 +1,304 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1271" style="background:#fff" viewBox="0 0 600 1271">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="600" height="1271" fill="#2F3242"/>
+    <text fill="#99A6BF" font-family="ArialMT, Arial" font-size="16">
+      <tspan x="50" y="108"> </tspan> <tspan x="78" y="108" font-family="PingFangSC-Regular, PingFang SC">近期数字资产价格波动较大，</tspan> <tspan x="286" y="108">BitStar</tspan> <tspan x="334.016" y="108" font-family="PingFangSC-Regular, PingFang SC">在分析市场波动率和偏差均值</tspan> <tspan x="50" y="132" font-family="PingFangSC-Regular, PingFang SC">的基础上，结合部分交易用户建议，将会调整持仓费收取参数，以更好</tspan> <tspan x="50" y="156" font-family="PingFangSC-Regular, PingFang SC">的顺应数字资产市场。</tspan>
+    </text>
+    <text font-family="ArialMT, Arial" font-size="16">
+      <tspan x="50" y="268" fill="#99A6BF"> </tspan> <tspan x="78" y="268" fill="#99A6BF" font-family="PingFangSC-Regular, PingFang SC">本次参数调整将于北京时间</tspan> <tspan x="270" y="268" fill="#0D88D1">2017</tspan> <tspan x="305.594" y="268" fill="#0D88D1" font-family="PingFangSC-Regular, PingFang SC">年</tspan> <tspan x="321.594" y="268" fill="#0D88D1">8</tspan> <tspan x="330.492" y="268" fill="#0D88D1" font-family="PingFangSC-Regular, PingFang SC">月</tspan> <tspan x="346.492" y="268" fill="#0D88D1">18</tspan> <tspan x="364.289" y="268" fill="#0D88D1" font-family="PingFangSC-Regular, PingFang SC">日晚系统维护后</tspan> <tspan x="476.289" y="268" fill="#99A6BF" font-family="PingFangSC-Regular, PingFang SC">正式生</tspan> <tspan x="50" y="292" fill="#99A6BF" font-family="PingFangSC-Regular, PingFang SC">效，还请您根据自身情况做出应对，如时间有变动，</tspan> <tspan x="418" y="292" fill="#99A6BF">BitStar</tspan> <tspan x="466.016" y="292" fill="#99A6BF" font-family="PingFangSC-Regular, PingFang SC">将会另行公</tspan> <tspan x="50" y="316" fill="#99A6BF" font-family="PingFangSC-Regular, PingFang SC">告。</tspan>
+    </text>
+    <text fill="#99A6BF" font-family="ArialMT, Arial" font-size="16">
+      <tspan x="50" y="360"> </tspan> <tspan x="78" y="360" font-family="PingFangSC-Regular, PingFang SC">调整后的持仓费为：</tspan>
+    </text>
+    <text fill="#99A6BF" font-family="PingFangSC-Regular, PingFang SC" font-size="16">
+      <tspan x="50" y="1037"> 详情可到网站底部费率标准中查看。</tspan>
+    </text>
+    <text fill="#99A6BF" font-family="PingFangSC-Regular, PingFang SC" font-size="16">
+      <tspan x="50" y="1071"> 感谢您对BitStar的信任和支持！</tspan>
+    </text>
+    <rect width="200" height="30" x="29" y="380" fill="#15151F"/>
+    <rect width="90" height="30" x="391" y="380" fill="#15151F"/>
+    <rect width="160" height="30" x="230" y="380" fill="#15151F"/>
+    <rect width="90" height="30" x="391" y="412" fill="#21202D"/>
+    <rect width="160" height="30" x="230" y="412" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="444" fill="#1A1A26"/>
+    <rect width="90" height="30" x="391" y="630" fill="#1A1A26"/>
+    <rect width="90" height="30" x="391" y="506" fill="#1A1A26"/>
+    <rect width="90" height="30" x="391" y="692" fill="#1A1A26"/>
+    <rect width="90" height="30" x="391" y="568" fill="#1A1A26"/>
+    <rect width="90" height="30" x="391" y="754" fill="#1A1A26"/>
+    <rect width="90" height="30" x="391" y="816" fill="#1A1A26"/>
+    <rect width="90" height="30" x="391" y="878" fill="#1A1A26"/>
+    <rect width="90" height="30" x="391" y="940" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="444" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="506" fill="#1A1A26"/>
+    <text fill="#526174" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="400" y="403">多头持仓费率</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="432">0.01%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="464">0.02%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="650">0.05%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="526">0.03%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="712">0.06%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="588">0.04%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="774">0.07%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="433" y="836">0.8%</tspan>
+    </text>
+    <rect width="90" height="30" x="391" y="474" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="660" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="536" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="722" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="598" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="784" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="846" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="908" fill="#21202D"/>
+    <rect width="90" height="30" x="391" y="970" fill="#21202D"/>
+    <rect width="160" height="30" x="230" y="474" fill="#21202D"/>
+    <rect width="160" height="30" x="230" y="536" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="454" y="494">0</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="414" y="682.646">－</tspan> <tspan x="418.889" y="682" font-family="ArialMT, Arial">0.03%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="414" y="559.646">－</tspan> <tspan x="418.889" y="559" font-family="ArialMT, Arial">0.01%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="414" y="744.646">－</tspan> <tspan x="418.889" y="744" font-family="ArialMT, Arial">0.04%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="414" y="620.646">－</tspan> <tspan x="418.889" y="620" font-family="ArialMT, Arial">0.02%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="414" y="806.646">－</tspan> <tspan x="418.889" y="806" font-family="ArialMT, Arial">0.05%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="412" y="868">－0.06%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="417" y="930">-0.07%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="417" y="992">-0.08%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="897">0.09%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="426" y="959">0.10%</tspan>
+    </text>
+    <rect width="200" height="30" x="29" y="412" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="444" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="630" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="506" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="692" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="568" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="754" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="816" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="878" fill="#15151F"/>
+    <rect width="200" height="60" x="29" y="940" fill="#15151F"/>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="435.646">合约价格与指数价格偏差</tspan> <tspan x="158.889" y="435" font-family="ArialMT, Arial">&lt;=0.5%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="481">合约价格与指数价格偏差0.5%－1%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="667">合约价格与指数价格偏差2%－2.5%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="543">合约价格与指数价格偏差1%－1.5%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="729">合约价格与指数价格偏差2.5%－3%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="605">合约价格与指数价格偏差1.5%－2%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="791">合约价格与指数价格偏差3%－3.5%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="853">合约价格与指数价格偏差3.5%－4%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="915">合约价格与指数价格偏差4%－4.5%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="34" y="977">合约价格与指数价格偏差＞4.5%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="496">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="558">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#059FF5" fill-opacity=".8" font-family="ArialMT, Arial" font-size="16">
+      <tspan x="50" y="200"> </tspan> <tspan x="78" y="200" font-family="PingFangSC-Regular, PingFang SC">特别提醒您的是，本次调整并没有提高持仓费费率，仅是将价格偏</tspan> <tspan x="50" y="224" font-family="PingFangSC-Regular, PingFang SC">离参数缩小，</tspan> <tspan x="146" y="224">BitStar</tspan> <tspan x="194.016" y="224" font-family="PingFangSC-Regular, PingFang SC">也不会因本次参数调整而多收取任何费用。</tspan>
+    </text>
+    <text fill="#99A6BF" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500">
+      <tspan x="50" y="67">尊敬的用户：</tspan>
+    </text>
+    <text fill="#99A6BF" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16">
+      <tspan x="436" y="1194">BitStar运营团队</tspan> <tspan x="436" y="1218">2017年8月12日</tspan>
+    </text>
+    <rect width="90" height="30" x="482" y="380" fill="#15151F"/>
+    <rect width="90" height="30" x="482" y="412" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="444" fill="#1A1A26"/>
+    <rect width="90" height="30" x="482" y="630" fill="#1A1A26"/>
+    <rect width="90" height="30" x="482" y="506" fill="#1A1A26"/>
+    <rect width="90" height="30" x="482" y="692" fill="#1A1A26"/>
+    <rect width="90" height="30" x="482" y="568" fill="#1A1A26"/>
+    <rect width="90" height="30" x="482" y="754" fill="#1A1A26"/>
+    <rect width="90" height="30" x="482" y="816" fill="#1A1A26"/>
+    <rect width="90" height="30" x="482" y="878" fill="#1A1A26"/>
+    <rect width="90" height="30" x="482" y="940" fill="#1A1A26"/>
+    <text fill="#526174" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="491" y="403">空头持仓费率</tspan>
+    </text>
+    <rect width="90" height="30" x="482" y="474" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="660" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="536" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="722" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="598" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="784" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="846" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="908" fill="#21202D"/>
+    <rect width="90" height="30" x="482" y="970" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="543" y="464">0</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="432">0.01%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="503" y="652.646">－</tspan> <tspan x="507.889" y="652" font-family="ArialMT, Arial">0.03%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="503" y="528.646">－</tspan> <tspan x="507.889" y="528" font-family="ArialMT, Arial">0.01%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="503" y="714.646">－</tspan> <tspan x="507.889" y="714" font-family="ArialMT, Arial">0.04%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="503" y="590.646">－</tspan> <tspan x="507.889" y="590" font-family="ArialMT, Arial">0.02%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="503" y="776.646">－</tspan> <tspan x="507.889" y="776" font-family="ArialMT, Arial">0.05%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="503" y="838.646">－</tspan> <tspan x="507.889" y="838" font-family="ArialMT, Arial">0.06%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="514" y="494">0.02</tspan> <tspan x="544.466" y="494.646" font-family="PingFangSC-Regular, PingFang SC">％</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="680">0.05%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="556">0.03%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="742">0.06%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="618">0.04%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="804">0.07%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="866">0.08%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="928">0.09%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="ArialMT, Arial" font-size="12">
+      <tspan x="515" y="990">0.10%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="506" y="899">-0.07%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="506" y="961">-0.08%</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="466">合约价格高于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="528">合约价格高于指数价格</tspan>
+    </text>
+    <rect width="160" height="30" x="230" y="568" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="598" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="620">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="590">合约价格高于指数价格</tspan>
+    </text>
+    <rect width="160" height="30" x="230" y="630" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="660" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="682">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="652">合约价格高于指数价格</tspan>
+    </text>
+    <rect width="160" height="30" x="230" y="692" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="722" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="744">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="714">合约价格高于指数价格</tspan>
+    </text>
+    <rect width="160" height="30" x="230" y="754" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="784" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="806">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="776">合约价格高于指数价格</tspan>
+    </text>
+    <rect width="160" height="30" x="230" y="816" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="846" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="868">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="838">合约价格高于指数价格</tspan>
+    </text>
+    <rect width="160" height="30" x="230" y="878" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="908" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="930">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="900">合约价格高于指数价格</tspan>
+    </text>
+    <rect width="160" height="30" x="230" y="940" fill="#1A1A26"/>
+    <rect width="160" height="30" x="230" y="970" fill="#21202D"/>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="992">合约价格低于指数价格</tspan>
+    </text>
+    <text fill="#7B8A9D" font-family="PingFangSC-Regular, PingFang SC" font-size="12">
+      <tspan x="250" y="962">合约价格高于指数价格</tspan>
+    </text>
+  </g>
+</svg>
